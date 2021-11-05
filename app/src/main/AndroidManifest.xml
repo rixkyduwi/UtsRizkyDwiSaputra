@@ -9,10 +9,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UtsRizkyDwiSaputra">
         <activity
-            android:name=".DetailActivity"
+            android:name="com.RizkyDwiSaputra.Politik.DetailActivity"
             android:exported="true" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.RizkyDwiSaputra.Politik.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.RizkyDwiSaputra.Politik.MainActivity"
             android:exported="true"/>
     </application>
 

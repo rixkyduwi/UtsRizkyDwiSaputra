@@ -1,4 +1,4 @@
-package com.example.utsrizkydwisaputra
+package com.RizkyDwiSaputra.Politik
 
 import org.junit.Test
 

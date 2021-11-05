@@ -1,9 +1,9 @@
-package com.example.utsrizkydwisaputra
+package com.RizkyDwiSaputra.Politik
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import kotlinx.android.synthetic.main.activity_detail.view.*
+import com.example.utsrizkydwisaputra.R
 import kotlinx.android.synthetic.main.item_list.view.*
 
 class DataAdapter(val data: List<DataModel>?, val itemClick: OnClickListener) : RecyclerView.Adapter<DataAdapter.MyViewHolder>() {

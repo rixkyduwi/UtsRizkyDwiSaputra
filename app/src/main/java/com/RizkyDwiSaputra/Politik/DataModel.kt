@@ -1,4 +1,4 @@
-package com.example.utsrizkydwisaputra
+package com.RizkyDwiSaputra.Politik
 
 class DataModel (
     val poster :Int,
