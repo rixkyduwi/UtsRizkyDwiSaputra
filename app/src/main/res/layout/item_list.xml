@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:padding="5dp"
-        android:background="mer"
+        android:background="#808080"
         android:text="Detail"
         android:textStyle="bold"
         android:textColor="@android:color/white"
